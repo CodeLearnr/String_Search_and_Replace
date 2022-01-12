@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA15_ReplaceString\bin\Debug\LA15_ReplaceString.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA15_ReplaceString\bin\Debug\LA15_ReplaceString.exe
+D:\All files\Bow Valley\SODV9104\HW\LA15_ReplaceString\bin\Debug\LA15_ReplaceString.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA15_ReplaceString\obj\Debug\LA15_ReplaceString.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA15_ReplaceString\obj\Debug\LA15_ReplaceString.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA15_ReplaceString\obj\Debug\LA15_ReplaceString.exe
+D:\All files\Bow Valley\SODV9104\HW\LA15_ReplaceString\obj\Debug\LA15_ReplaceString.pdb
